@@ -70,7 +70,7 @@
         "groups": [
           {
             "group": "API documentation 2",
-            "openapi": "openapi.json"
+            "openapi": "api-reference/openapi.json"
           }
         ]
       }
